@@ -215,6 +215,7 @@ True   Dog    432    38
 
 **Результаты (матрица 5×5):**
 
+![Dataset we will deal with](images/cam.png)
 | | Target 0 | Target 1 | Target 2 | Target 3 | Target 4 |
 |--|----------|----------|----------|----------|----------|
 | **Img 0** | 🟢 уши | 🟡 морда | 🔴 фон | 🟡 тело | 🟢 лапы |
